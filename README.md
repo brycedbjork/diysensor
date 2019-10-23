@@ -1,4 +1,4 @@
-# diysensor
+# magic black box
 
 ## overview
 
